@@ -1,6 +1,7 @@
 Projeto desenvolvido para teste de admissão na empresa Finch Soluções:
 
 Para execução do projeto, entre na pasta do projeto, vá para a pasta Bin, depois entre em Release, então execute "pFinchFila.exe"
+Sempre que aberto, o projeto pede um email para recebimento(isso é para que possam testar com mais facilidade).
 
 para o primeiro acesso é necessário fazer o cadastro, clicando no botão Registrar
 
