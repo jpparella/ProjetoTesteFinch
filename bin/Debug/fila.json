@@ -1,0 +1,61 @@
+[ {
+  "id" : "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "cliente" : "XPTO ADVOCACIA",
+  "dataAgendamento" : "2020-08-29",
+  "observacao" : "nenhuma",
+  "tipo" : {
+    "id" : 1,
+    "descricao" : "Cópia",
+    "valor" : 25.5
+  }
+}, {
+  "id" : "d290f1ee-6c54-4b01-90e6-d701748f0852",
+  "cliente" : "XPTO ADVOCACIA",
+  "dataAgendamento" : "2020-08-30",
+  "observacao" : "cliente não aceita preposto",
+  "tipo" : {
+    "id" : 2,
+    "descricao" : "Audiência",
+    "valor" : 49.9
+  }
+}, {
+  "id" : "d290f1ee-6c54-4b01-90e6-d701748f0853",
+  "cliente" : "XPTO VIAGENS",
+  "dataAgendamento" : "2020-08-20",
+  "observacao" : "nenhuma",
+  "tipo" : {
+    "id" : 3,
+    "descricao" : "Alvará",
+    "valor" : 99.9
+  }
+}, {
+  "id" : "d290f1ee-6c54-4b01-90e6-d701748f0854",
+  "cliente" : "XPTO ADVOCACIA",
+  "dataAgendamento" : "2020-08-29",
+  "observacao" : "nenhuma",
+  "tipo" : {
+    "id" : 1,
+    "descricao" : "Cópia",
+    "valor" : 25.5
+  }
+}, {
+  "id" : "d290f1ee-6c54-4b01-90e6-d701748f0855",
+  "cliente" : "XPTO CONTABILIDADE",
+  "dataAgendamento" : "2020-07-15",
+  "observacao" : "registrar em cartório",
+  "tipo" : {
+    "id" : 1,
+    "descricao" : "Cópia",
+    "valor" : 25.5
+  }
+}, {
+  "id" : "d290f1ee-6c54-4b01-90e6-d701748f0856",
+  "cliente" : "XPTO FINANCEIRA",
+  "dataAgendamento" : "2020-06-25",
+  "observacao" : "nenhuma",
+  "tipo" : {
+    "id" : 4,
+    "descricao" : "Certidão",
+    "valor" : 54.9
+  }
+} ]
