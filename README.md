@@ -12,7 +12,7 @@ Após o login, vai ser direcionado para uma tela com todos os serviços disponí
 
 Para iniciar o serviço, clique com o botão direito e depois em detalhar, caso queira inciar, clique em "Pegar Serviço", caso contrário em cancelar.
 
-Para verificar os serviços iniciado também no botão direito, clique em "Serviços iniciados"
+Para verificar os serviços iniciados também no botão direito, clique em "Serviços iniciados"
 
 Para finalizar, na tela de serviços iniciados clique com o botão direito e em finalizar.
 
